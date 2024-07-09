@@ -1,0 +1,9 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url("Pics/m.jpg");
+  background-size: cover;
+  background-position: center;
+  font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
